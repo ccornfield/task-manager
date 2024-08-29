@@ -1,0 +1,3 @@
+from taskmanager import db
+
+db.create_all
